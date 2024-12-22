@@ -271,7 +271,7 @@
             "submit": "Sélectionner",
             "newFolder": "Nouveau répertoire",
             "empty": "Aucun fichier ou répertoire téléchargé pour le moment",
-            "selectRoot": "Sélectionner Cloud Drive"
+            "selectRoot": "Sélectionnez Stockage Cloud"
         },
         "selectContacts": {
             "title": "Sélectionner des contacts",
@@ -329,7 +329,7 @@
             "successToast": "Votre mot de passe a été changé avec succès"
         },
         "personalInformation": {
-            "title": "Changer les informations personnelles",
+            "title": "Modifier les informations personnelles",
             "firstName": "Prénom",
             "lastName": "Nom",
             "close": "Fermer",
@@ -1628,7 +1628,7 @@
     }
 }
 =======
-	"cloudDrive": "Cloud Drive",
+	"cloudDrive": "Stockage Cloud",
 	"login": {
 		"header": "Connexion",
 		"description": "Saisir ci-dessous votre e-mail et mot de passe pour vous connecter à votre compte",
@@ -1646,7 +1646,7 @@
 				"2faRecoveryKey": "Clé de récupération"
 			},
 			"example": {
-				"email": "moi@example.fr",
+				"email": "moi@exemple.fr",
 				"password": "****************",
 				"2faCode": "381740",
 				"2faRecoveryKey": "Clé de récupération"
@@ -1686,12 +1686,12 @@
 	},
 	"topBar": {
 		"breadcrumb": {
-			"cloudDrive": "Cloud Drive"
+			"cloudDrive": "Stockage Cloud"
 		},
 		"searchInThisFolder": "Rechercher dans ce dossier...",
 		"breadcrumbs": {
 			"recents": "Récents",
-			"cloudDrive": "Cloud Drive",
+			"cloudDrive": "Stockage Cloud",
 			"links": "Liens",
 			"sharedWithMe": "Partagé avec moi",
 			"sharedWithOthers": "Partagé avec d'autres",
@@ -1702,7 +1702,7 @@
 	},
 	"innerSideBar": {
 		"recents": "Récents",
-		"cloudDrive": "Cloud Drive",
+		"cloudDrive": "Stockage Cloud",
 		"links": "Liens",
 		"sharedWithMe": "Partagé avec moi",
 		"sharedWithOthers": "Partagé avec d'autres",
@@ -1713,7 +1713,7 @@
 		}
 	},
 	"sideBar": {
-		"cloudDrive": "Cloud Drive",
+		"cloudDrive": "Stockage Cloud",
 		"transfers": "Transferts",
 		"notes": "Notes",
 		"chats": "Conversations",
@@ -1733,7 +1733,7 @@
 		"item": {
 			"download": "Télécharger",
 			"publicLink": "Lien public",
-			"share": "PArtager",
+			"share": "Partager",
 			"versions": "Versions",
 			"favorite": "Favoris",
 			"unfavorite": "Non favoris",
@@ -1746,7 +1746,7 @@
 			"remove": "Supprimer",
 			"stopSharing": "Stopper le partage",
 			"selectDestination": "Sélectionner la destination",
-			"cloudDrive": "Cloud Drive",
+			"cloudDrive": "Stockage Cloud",
 			"open": "Ouvrir"
 		},
 		"drive": {
